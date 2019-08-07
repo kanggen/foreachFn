@@ -1,0 +1,2 @@
+# foreachFn
+this is forEach
